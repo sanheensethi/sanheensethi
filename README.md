@@ -8,7 +8,7 @@
 
 ## 🚀 What I'm building
 
-- **ARIA** — Production AI agent system with 22+ skills and 77 tools deployed on Docker. Includes an **OpenSearch tool** that autonomously queries network event logs using natural language, enabling LLM-powered root cause analysis of network incidents at Aryaka Networks.
+- **Custom AI Agent Platform** — Production AI orchestration system with 20+ specialized skills and 70+ tool integrations deployed on Docker. Includes an **OpenSearch tool** that autonomously queries network event logs using natural language, enabling LLM-powered root cause analysis of network incidents at Aryaka Networks.
 - **AI Document Processor** — Flask + Azure OpenAI GPT-4 pipeline that ingests payroll documents from emails (Excel, CSV, images), extracts structured data, validates business rules, and stores to SQL Server. Full CI/CD on Azure DevOps → Azure Container Apps.
 
 ---
