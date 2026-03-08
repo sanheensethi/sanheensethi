@@ -8,7 +8,8 @@
 
 ## 🚀 What I'm building
 
-- **Custom AI Agent Platform** — Production AI orchestration system with 20+ specialized skills and 70+ tool integrations deployed on Docker. Includes an **OpenSearch tool** that autonomously queries network event logs using natural language, enabling LLM-powered root cause analysis of network incidents at Aryaka Networks.
+- **Custom AI Agent Platform** — Production AI orchestration system with 20+ specialized skills and 70+ tool integrations deployed on Docker. Automates complex DevOps, analytics, and infrastructure workflows.
+- **OpenSearch Log Analytics at Aryaka** — Implemented OpenSearch-based indexing and analytics for SD-WAN network event data in production, enabling real-time querying and LLM-powered root cause analysis of network incidents.
 - **AI Document Processor** — Flask + Azure OpenAI GPT-4 pipeline that ingests payroll documents from emails (Excel, CSV, images), extracts structured data, validates business rules, and stores to SQL Server. Full CI/CD on Azure DevOps → Azure Container Apps.
 
 ---
@@ -29,8 +30,8 @@ Networking  │ SD-WAN · Network Telemetry · AIOps
 
 ## 🎯 Currently
 
-- 🔭 Working as **Java Backend Engineer at Aryaka Networks** (SD-WAN, network observability)
-- 🤖 Building **AI agent systems** with multi-tool orchestration and OpenSearch analytics
+- 🔭 Working as **Java Backend Engineer at Aryaka Networks** (SD-WAN, network observability, OpenSearch analytics)
+- 🤖 Building **AI agent systems** with multi-tool orchestration and distributed backends
 - 📚 Learning **Kafka, distributed systems, sharding, consensus** for 30+ LPA roles
 - 🌱 Open to: **Senior Backend / AI Infrastructure Engineer** roles (WFH preferred)
 
